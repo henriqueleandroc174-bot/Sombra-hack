@@ -333,6 +333,7 @@ local whitelistedUsers = {
     "Fposes1",
     "theusruff67",
     "slowbop01",
+    "bebel_lindinha50"
 }
 
 local function GetAccountAge()
